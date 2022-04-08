@@ -1,0 +1,25 @@
+[
+    {
+        "id": 19844,
+        "firstName": "james",
+        "lastName": "de guzman",
+        "email": "james@",
+        "password": "12345",
+        "clearanceLevel": "wala"
+    },
+    {
+        "firstName": "harold",
+        "lastName": "ignacio",
+        "email": "bryan_james005@yahoo.com",
+        "password": "12345678",
+        "id": 190046
+    },
+    {
+        "firstName": "harold",
+        "lastName": "ignacio",
+        "email": "bryan_james005@yahoo.com",
+        "password": "12345678",
+        "clearanceLevel": "wala",
+        "id": 108078
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "id": 10000,
+        "firstName": "john ",
+        "lastName": "doe",
+        "position": "Accounting",
+        "sickLeaveCredits": "3",
+        "vacationLeaveCredits": "3",
+        "hourlyRate": "1000"
+    }
+]
